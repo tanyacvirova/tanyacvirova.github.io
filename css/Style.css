@@ -1,0 +1,99 @@
+body, div, h1, h2, p, img {
+    margin: 0;
+}
+
+body {
+    font-family: "Open Sans";
+}
+
+div {
+    margin-left: 250px;
+    margin-top: 20px;
+    width: 760px;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Open Sans';
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+    padding-top: 90px;
+    padding-bottom: 25px;
+}
+
+h2 {
+    font-family: 'Open Sans';
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-weight: normal;
+    color: black;
+  }
+
+.tooltip {
+    margin-left: 0;
+}
+
+.article {
+    margin-top: 0;
+    margin-left: 250px;
+    width: 760px;
+}
+
+.subtitle {
+    font-size: 25px;
+    font-weight: normal;
+    color: #000000;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.paragraph {
+    font-size: 21px;
+    line-height: 30px;
+    font-weight: lighter;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.caption {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: lighter;
+    color: #757575;
+}
+
+.caption_end {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: lighter;
+    color: #757575;
+    padding-bottom: 15px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #E0E0E0;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.source, .author, .contact {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: lighter;
+    color: black;
+    margin-left: 250px;
+}
